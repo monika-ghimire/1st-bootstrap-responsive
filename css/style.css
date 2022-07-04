@@ -1,0 +1,38 @@
+.container-fluid
+{
+    background-color: rgb(202, 247, 232);
+  
+}
+
+.carousel-item img
+{
+    width:400px;
+    height:400px;
+    
+}
+.left-side-col
+{
+    background-color: rgb(135, 164, 155)
+}
+.right-col-holder
+{
+    border-bottom:1px solid black;
+    
+}
+.tittle
+{
+    position: relative;
+    top:30%;
+    left:25%;
+    font-size:30px;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.container p
+{
+    position: relative;
+    top:35%;
+    left:25%;
+    font-size:10px;
+}
